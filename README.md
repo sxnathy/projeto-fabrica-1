@@ -66,7 +66,6 @@ python -m unittest
 ## 🧠 Conceitos trabalhados
 - Entrada de dados com `input()`
 - Conversão e validação de `float`
-- Funções puras e testáveis (`calcular_media`, `classificar_media`)
 - Formatação de saída com f-strings
 - Organização de projeto e **README**
 
